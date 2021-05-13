@@ -1,4 +1,4 @@
-[back](/readme.md)
+[back](/index.md)
 
 ## Ways to create instances of class
 ```

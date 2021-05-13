@@ -1,4 +1,4 @@
-[back](/readme.md)
+[back](/index.md)
 
 ## Creating objects
 ### Factory functions

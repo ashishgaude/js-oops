@@ -1,4 +1,4 @@
-[back](/readme.md)
+[back](/index.md)
 
 ## Intro
 ES6 introduced the concept of classes.
